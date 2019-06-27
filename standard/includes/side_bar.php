@@ -75,6 +75,15 @@
             </span>
           </a>
         </li>
+        <li style="border-style:solid;border-color:#d8dbdf80;border-top: none;" class="<?php if( $_FILE_NAME == "free_support_services.php"){echo "active";} ?>">
+          <a href="<?php echo base_url; ?>tabs/file_extplore.php">
+          <img src="<?php echo base_url; ?>assets/img/d1.png" style="width:40px;"> 
+            <b>Access Your</b><br>
+            <p style="margin-left:21%;">CloudBox™</p>
+            <span class="pull-right-container">
+            </span>
+          </a>
+        </li>
         
       </ul>
     </section>

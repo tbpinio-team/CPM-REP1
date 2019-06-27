@@ -1,7 +1,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <?php require_once ("functions.php"); ?> 
   <header class="main-header">
-    <a href="http://tbpinio.pw/cpmDev1/dashboard/standard/dashboard.php" class="logo" style="height: 57px;">
+    <a href="http://localhost/dashboard/standard/dashboard.php" class="logo" style="height: 57px;">
       <span class="logo-mini"><b>A</b>LT</span>
       <span class="logo-lg" style="margin-top:5px ;" ><b>AWT</b>-CEP</span>
     </a>
